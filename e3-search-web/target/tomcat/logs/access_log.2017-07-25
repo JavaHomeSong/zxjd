@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [25/Jul/2017:10:35:09 +0800] "GET /search.html?keyword=%E5%B0%8F%E7%B1%B3 HTTP/1.1" 200 29859 http-bio-8085-exec-1 5694
+0:0:0:0:0:0:0:1 - - [25/Jul/2017:10:37:28 +0800] "GET /html/web/_public/_ajaxStaticMenu.html?v20140430 HTTP/1.1" 404 949 http-bio-8085-exec-3 55
